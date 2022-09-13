@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mersad</h1>
 <h3 align="center">A young Researcher who loves Deep Learning </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mersad-esalati&label=Profile%20views&color=0e75b6&style=flat" alt="mersad-esalati"/> </p>
-
 - 🔭 I’m currently working on **Neural Machine Translation**
 
 - 🌱 My interests are **Machine Learning, Deep Learning Theory, Natural Language Processing (NLP), Trustworthy ML (Explainability, Robustness, and Fairness)**.
@@ -34,6 +32,8 @@
 <a href="https://twitter.com/MersadEsalati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MersadEsalati" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mersad-esalati/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mersad-esalati/" height="30" width="40" /></a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mersad-esalati&label=Profile%20views&color=0e75b6&style=flat" alt="mersad-esalati"/> </p>
 
 <!--
 **mersad-esalati/mersad-esalati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
