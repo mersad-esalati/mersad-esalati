@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Neural Machine Translation**
 
-- 🌱 My interests are **Machine Learning, Deep Learning Theory, Natural Language Processing (NLP), Trustworthy ML, Deep Reinforcement Learning (Deep RL)**.
+- 🌱 My interests are **Machine Learning, Deep Learning Theory, Natural Language Processing, Trustworthy ML, Deep Reinforcement Learning**.
 
 <h3 align="left">Languages:</h3>
 <p align="left">
