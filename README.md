@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mersad</h1>
-<h3 align="center">A young Researcher who loves Deep Learning ❤️ </h3>
+<h3 align="center">A Junior Researcher Who Loves Deep Learning ❤️ </h3>
 
 - 🔭 I’m currently working on **Neural Machine Translation**
 
